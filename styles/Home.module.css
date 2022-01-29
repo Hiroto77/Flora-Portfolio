@@ -23,9 +23,9 @@
 }
 
 .thirdSection {
-  background-image: url(https://uploads-ssl.webflow.com/5c3b9a6b6bc47198ec041cad/5e306be503c1a3844cd06e9d_lenovo%20homepage%20banner%20dark.png);
+  background-image: url(https://camo.githubusercontent.com/67679d0e3eadfb82a6aa7dee1ec377fe3911c8beeb658132c3ff7f1d1c3ff338/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e643947635175794d464a6770767378496431382d4b4543465f3041345743336c4a5042673964775126757371703d434155);
   background-position: 100% 100%;
-  background-size: cover;
+  background-size: contain;
   background-attachment: fixed;
 }
 
