@@ -46,8 +46,7 @@ const About: NextPage = () => {
               <div className="md:pl-36 pl-12 pt-16 pb-16 pr-32 flex flex-col gap-4 md:justify-around">
                 <h1 className="text-xl">This is me.</h1>
                 <h2 className="md:text-4xl text-3xl md:leading-relaxed">
-                  I'm currently learning about UX/UI Designing while trying to
-                  keep myself sane.
+                  I'm currently learning about C++/Java/UX/UI Designing.
                 </h2>
               </div>
             </div>
@@ -58,9 +57,8 @@ const About: NextPage = () => {
             <div className=" md:w-2/3 pl-10 pr-10">
               <h1 className="md:text-4xl text-2xl pb-4">Who am I?</h1>
               <h4 className="md:text-xl text-md">
-                I'm a cyber punk. Just tryna be edgy there but yeah. Obssessed
-                with Ling Tosite Sigure and the world of cyberpunk. Here I am
-                trying to solve design problems and sometimes mathematical too.
+                I'm New to these stuffs trying to learn various Creative things. 
+                I'll be displaying my project Soon as it gets completed!
                 I loved this site design by Nicolas and so I tried clonning it,
                 I am not sure how I did on this one, you can check his original
                 portfolio out <br></br>
@@ -81,7 +79,7 @@ const About: NextPage = () => {
           >
             <div className=" md:w-2/3 pl-10 pr-10 flex flex-col items-center">
               <h1 className="md:text-4xl text-2xl pb-4 self-baseline">
-                Resume
+                Resume(Unavailable)
               </h1>
               <div className={`${styles.resumeImage}`}>
                 <Image
