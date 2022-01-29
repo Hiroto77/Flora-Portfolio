@@ -44,7 +44,7 @@ const Home: NextPage = () => {
             >
               <h1 className="md:text-7xl text-3xl">Nice to see you.</h1>
               <p className="max-w-sm">
-                👋 Hi! My name is John Doe and I'm a User Experience Designer
+                👋 Hi! My name is NiTiN and I'm a User Experience Designer
                 studying at LIFE
               </p>
               <svg
@@ -71,16 +71,16 @@ const Home: NextPage = () => {
             <Showcase
               showcaseClass={`${styles.secondSection}`}
               number="02"
-              title="Ponder"
+              title="Education"
               description="A space for guided introspection"
-              backgroundColor="bg-purple-400"
-              onHoverColor="bg-purple-500"
+              backgroundColor="bg-blue-400"
+              onHoverColor="bg-white-500"
             />
             <Showcase
               showcaseClass={`${styles.thirdSection}`}
               number="03"
-              title="Lenovo"
-              description="SCADpro Collaborative Project"
+              title="Kaoi"
+              description="Infinity's Collaborative Project"
               backgroundColor="bg-red-600"
               onHoverColor="bg-red-700"
             />
