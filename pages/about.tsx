@@ -83,13 +83,13 @@ const About: NextPage = () => {
               </h1>
               <div className={`${styles.resumeImage}`}>
                 <Image
-                  src="https://ssr.resume.tools/to-image/ssid-jEiOv9LFp-1.webp?cache=c19cc2e02c&size=1980"
+                  src=""
                   height={2800}
                   width={1980}
                 />
               </div>
               <a
-                href="https://resume.io/r/jEiOv9LFp"
+                href=""
                 target="_blank"
                 className={` md:w-2/4 w-3/4 pt-6  pb-6 pl-8 pr-8 mt-8 mb-8 bg-black flex justify-center text-white text-center hover:bg-white hover:text-black border-black border-2`}
                 referrerPolicy="no-referrer"
