@@ -80,7 +80,7 @@ const Contact: NextPage = () => {
 
                 <a
                   className={` md:w-1/2 w-3/4 pt-6  pb-6 pl-8 pr-8 mt-8 mb-8 bg-black flex justify-center text-white text-center hover:bg-white hover:text-black border-black border-2`}
-                  href={`mailto:ak89545@gmail.com?subject=${subject}&body=Hello from ${name} ${message}`}
+                  href={`mailto:shivamkiran2@gmail.com?subject=${subject}&body=Hello from ${name} ${message}`}
                 >
                   Submit
                 </a>
