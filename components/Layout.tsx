@@ -45,11 +45,11 @@ const Layout = ({ children }: LayoutProps) => {
       </AnimatePresence>
       {children}
       <footer className="pb-28 pt-28 pl-16 bg-white">
-        <h1 className="text-gray-800 text-4xl">Somnath Das</h1>
+        <h1 className="text-gray-800 text-4xl">NiTiN</h1>
         <div className="flex gap-6 pt-12">
           <a
             className="underline decoration-2 decoration-red-300"
-            href="https://instagram.com/samurai3247"
+            href="https://www.instagram.com/_ni_t_in._/"
             target="_blank"
             referrerPolicy="no-referrer"
           >
@@ -59,7 +59,7 @@ const Layout = ({ children }: LayoutProps) => {
             className="underline decoration-2 decoration-red-300"
             target="_blank"
             referrerPolicy="no-referrer"
-            href="https://github.com/SomnathDas"
+            href="https://github.com/Hiroto77/Hiroto"
           >
             Github
           </a>
