@@ -13,7 +13,7 @@ const NavbarList = () => {
   const Router = useRouter();
   return (
     <div className={`flex md:flex-row flex-col justify-between gap-4`}>
-      <h2 className="text-3xl text-blue-500 text-center">Somnath Das</h2>
+      <h2 className="text-3xl text-blue-500 text-center">NiTiN</h2>
       <ul className={`flex md:text-md gap-4 justify-center`}>
         <li>
           <Link href="/">
